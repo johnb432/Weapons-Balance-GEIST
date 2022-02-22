@@ -1,5 +1,11 @@
+# Changelog for Weapons balance 22.2.2022
+
+1.0.0.1
+- Minor cleanup.
+
 # Changelog for Weapons balance 20.11.2021
 
+1.0.0.0
 - Added ACE barrel and ACE ammo stats
 
 - Weapon changes:
