@@ -1,3 +1,8 @@
+# Changelog for Weapons balance 10.11.2025
+
+1.0.1.0
+- Update mod to work with latest release of GEIST.
+
 # Changelog for Weapons balance 22.2.2022
 
 1.0.0.1

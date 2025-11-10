@@ -58,6 +58,11 @@ class CfgMagazines {
         _MASS(AMMO75X54,5,RNDCLIP);
     };
 
+    class GLIB_ITA_6Rnd_650x52mm: LIB_5Rnd_762x54 {
+        displayName = "5Rnd 6.5x52mm Carcano M91 Clip";
+        _MASS(AMMO77X58,5,RNDCLIP);
+    };
+
     class LIB_20Rnd_762x63;
     class GLIB_FIN_25Rnd_762x54mm: LIB_20Rnd_762x63 {
         ammo = "LIB_B_762x54_Ball_NoCartridge";
@@ -84,6 +89,13 @@ class CfgMagazines {
     };
     class GLIB_GBR_6Rnd_380British: LIB_7Rnd_762x38 {
         displayName = "6Rnd .380 Enfield No.2 Mk.I Mag";
+    };
+    class GLIB_ITA_6Rnd_1035mm: LIB_7Rnd_762x38 {
+        displayName = "6Rnd 10x35mm Beretta M1935 Mag";
+    };
+
+    class GLIB_ITA_8Rnd_76517mm: LIB_7Rnd_762x38 {
+        displayName = "8Rnd 7.65x17mm Beretta M1935 Mag";
     };
 
     class LIB_8Rnd_9x19_P08;

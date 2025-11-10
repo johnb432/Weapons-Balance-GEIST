@@ -14,4 +14,4 @@
     #define DEBUG_SETTINGS DEBUG_SETTINGS_WB_GEIST
 #endif
 
-#include "\x\cba\addons\main\script_macros_common.hpp"
+#include "script_macros.hpp"
